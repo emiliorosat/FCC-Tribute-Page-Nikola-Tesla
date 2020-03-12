@@ -1,9 +1,8 @@
-Tributo a Nikola Tesla.
+# Tributo a Nikola Tesla.
 
 Skills: HTML CSS
 
 Objetivo: FCC 
 Responsive Web Design Project
-https://freecodecamp.org
 
-LINK: https://aaronsn0w.github.io/FCC-Tribute-Page-Nikola-Tesla/
+Esta es una página tributo a la vida de Nikola Tesla, el padre del mundo moderno. Cuenta con un diseño responsive simple pero elegante.
